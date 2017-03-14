@@ -1,8 +1,8 @@
 # lvcc-web-app-devt-laravel
 
 ACT 2
-Name                Contribution<BR>
-Nicko Reyes         Back-end<BR>
-Christian Diverson  Front-end<BR>
-Karl Cabangon       Researcher<BR>
-Al John Salvador    Researcher<BR>
+Name        &nbsp &nbsp    Contribution<BR>
+Nicko Reyes      &nbsp &nbsp    Back-end<BR>
+Christian Diverson  &nbsp &nbsp Front-end<BR>
+Karl Cabangon      &nbsp &nbsp  Researcher<BR>
+Al John Salvador   &nbsp &nbsp  Researcher<BR>
